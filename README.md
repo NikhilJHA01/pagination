@@ -3,4 +3,6 @@ Created with CodeSandbox
 
 ## Contributors
 
-(https://github.com/NikhilJHA01)
+<a href="https://github.com/NikhilJHA01">
+  <img src="https://avatars.githubusercontent.com/u/63518046?v=4" alt="Nikhil Jha" style="border-radius: 50%;">
+</a>
